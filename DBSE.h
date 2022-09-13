@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <mysql.h>
-#ifndef DBSTOOLKIT_H
-#define DBSTOOLKIT_H
+#ifndef DBSE_H
+#define DBSE_H
 
 namespace TOOLS {
 	struct Employee {
